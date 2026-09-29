@@ -1,0 +1,7 @@
+model_type: "DeepSeeKModel"
+model_name: "deepseek-chat"
+input_file: "test/test.pdf"
+file_format: "md"
+source_language: "English"
+target_language: "Chinese"
+api_key: "sk-"
